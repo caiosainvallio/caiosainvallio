@@ -1,10 +1,3 @@
-<center>
-<table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiosainvallio&hide=html&layout=compact&theme=buefy" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=caiosainvallio&theme=buefy"/></td>
-    </tr>   
-</table>
-</center>  
+### Olá <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, eu sou o Caio!
 
-![](https://komarev.com/ghpvc/?username=caiosainvallio)
+![Twitter Follow](https://img.shields.io/twitter/follow/csvallio?label=Me%20siga%20no%20Twetter&style=social)

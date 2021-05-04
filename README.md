@@ -5,7 +5,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/csvallio?label=Me%20siga%20no%20Twetter&style=social)
 
 
-Tenho interesse em [estatística Bayesiana](http://www.rbf-bjpt.org.br/en-understanding-interpreting-confidence-credible-intervals-articulo-S141335551831058X) e tudo que engloba Ciência de Dados aplicados em problemas da área da saúde!
+Tenho interesse em [estatística Bayesiana](http://www.rbf-bjpt.org.br/en-understanding-interpreting-confidence-credible-intervals-articulo-S141335551831058X) e tudo que engloba Ciência de Dados com aplicações em problemas da área da saúde!
 
 ---
 

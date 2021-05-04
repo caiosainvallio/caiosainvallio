@@ -17,8 +17,9 @@ Tenho interesse em [estatística Bayesiana](http://www.rbf-bjpt.org.br/en-unders
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiosainvallio&hide=java,html,css&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiosainvallio&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Caio's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiosainvallio&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 ---
+
 

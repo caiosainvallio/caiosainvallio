@@ -9,9 +9,16 @@ Tenho interesse em [estatística Bayesiana](http://www.rbf-bjpt.org.br/en-unders
 
 ---
 
-🧰 Toolbox
+🧰  Toolbox
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="R Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" alt="Vim Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/apple1.svg" alt="Apple Logo" width="50" height="50"/> 
 
+---
+
+## &#x1f4c8; My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiosainvallio&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Caio's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiosainvallio&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ---
 

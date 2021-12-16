@@ -4,15 +4,11 @@ Tenho interesse em [estatística Bayesiana](http://www.rbf-bjpt.org.br/en-unders
 
 ---
 
-
 ## 🧰  Toolbox
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="R Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python Logo" width="50" height="50"/> <img src="https://symbols.getvecta.com/stencil_85/53_julia-language-icon.d9f53761e1.svg" alt="Julia" width="50" height="50"/> <img src="https://mc-stan.org/images/stan_logo.png" alt="Stan" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu Logo" width="50" height="50"/>
 
-
-
 ---
-
 
 ## &#x1f4c8; My GitHub Stats
 
@@ -21,5 +17,3 @@ Tenho interesse em [estatística Bayesiana](http://www.rbf-bjpt.org.br/en-unders
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiosainvallio&layout=compact&theme=dracula&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-
-

@@ -15,5 +15,3 @@ Tenho interesse em [estatística Bayesiana](http://www.rbf-bjpt.org.br/en-unders
 ![](https://komarev.com/ghpvc/?username=caiosainvallio)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiosainvallio&layout=compact&theme=dracula&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
-
